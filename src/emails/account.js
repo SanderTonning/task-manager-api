@@ -1,4 +1,3 @@
-// API KEY : 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
 
 const sgMail = require('@sendgrid/mail')
 
